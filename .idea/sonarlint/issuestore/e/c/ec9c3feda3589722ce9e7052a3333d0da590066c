@@ -1,0 +1,7 @@
+
+kpython:S117
+"MRename this parameter "A" to match the regular expression ^[_a-z][a-z0-9_]*$.(ãÏµò8ÕÙšíÏ1
+npython:S117"PRename this parameter "Ainv" to match the regular expression ^[_a-z][a-z0-9_]*$.(¶œ€œ8ÕÙšíÏ1
+ppython:S117"MRename this parameter "B" to match the regular expression ^[_a-z][a-z0-9_]*$.(šÖ®Øşÿÿÿÿ8ÕÙšíÏ1
+ppython:S117"MRename this parameter "C" to match the regular expression ^[_a-z][a-z0-9_]*$.(šôØ­ıÿÿÿÿ8ÕÙšíÏ1
+rpython:S117i"ORename this parameter "x_T" to match the regular expression ^[_a-z][a-z0-9_]*$.(¤ŒÑÈúÿÿÿÿ8ÕÙšíÏ1

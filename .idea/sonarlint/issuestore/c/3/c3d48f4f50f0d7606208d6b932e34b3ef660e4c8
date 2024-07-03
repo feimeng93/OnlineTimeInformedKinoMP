@@ -1,0 +1,14 @@
+
+opython:S1174"SRename this local variable "Ac" to match the regular expression ^[_a-z][a-z0-9_]*$.(†±Üöşÿÿÿÿ
+opython:S1175"SRename this local variable "Bc" to match the regular expression ^[_a-z][a-z0-9_]*$.(æÇñŸüÿÿÿÿ
+dpython:S117"MRename this parameter "N" to match the regular expression ^[_a-z][a-z0-9_]*$.(¹…èß
+ipython:S117"MRename this parameter "Q" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ìö„ûÿÿÿÿ
+jpython:S117"NRename this parameter "QN" to match the regular expression ^[_a-z][a-z0-9_]*$.(­Ğç…ùÿÿÿÿ
+dpython:S117"MRename this parameter "R" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ä·ÜÖ
+ipython:S107"MMethod "__init__" has 14 parameters, which is greater than the 13 authorized.( Ğàşüÿÿÿÿ
+opython:S117p"XRename this local variable "Q_slack" to match the regular expression ^[_a-z][a-z0-9_]*$.(•¤ãÅ
+qpython:S117¿"TRename this local variable "Aeq" to match the regular expression ^[_a-z][a-z0-9_]*$.(Éîÿ†úÿÿÿÿ
+npython:S117¼"VRename this local variable "Aineq" to match the regular expression ^[_a-z][a-z0-9_]*$.(õ˜åÂ
+jpython:S117³"SRename this local variable "Ax" to match the regular expression ^[_a-z][a-z0-9_]*$.(Èû±)
+jpython:S117¶"SRename this local variable "Bu" to match the regular expression ^[_a-z][a-z0-9_]*$.(ªV
+<python:S125‡"Remove this commented out code.(€ªùàüÿÿÿÿ

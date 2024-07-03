@@ -1,0 +1,4 @@
+{
+    "julia.environmentPath": "/home/robot/mf/SamplingReachTubeKinoMP/",
+    "python.envFile": "${workspaceFolder}/.env"
+}

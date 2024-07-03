@@ -1,0 +1,9 @@
+
+fpython:S1192"HDefine a constant instead of duplicating this literal "$x$ (m)" 4 times.(¼ˆ³Èøÿÿÿÿ
+fpython:S1192‘"HDefine a constant instead of duplicating this literal "$z$ (m)" 4 times.(éÿ±ëşÿÿÿÿ
+ipython:S117G"MRename this parameter "J" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÉûŒñùÿÿÿÿ
+qpython:S1186n"YAdd a nested comment explaining why this method is empty, or complete the implementation.(ÛÁ·„
+npython:S117á"VRename this local variable "A_lin" to match the regular expression ^[_a-z][a-z0-9_]*$.(õŒ“Ì
+spython:S117ú"VRename this local variable "B_lin" to match the regular expression ^[_a-z][a-z0-9_]*$.(Á¿ÿúÿÿÿÿ
+Ipython:S1481à"+Replace unused local variable "g" with "_".(Ş§´›ÿÿÿÿÿ
+Hpython:S1481˜"/Replace unused local variable "q_dot" with "_".(ßóØì

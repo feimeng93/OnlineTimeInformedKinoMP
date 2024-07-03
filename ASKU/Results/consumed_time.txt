@@ -1,0 +1,92 @@
+% -----------------------------BRS---------------------------------------
+% -----------------------------------------------------------------------
+# Yongxing Tang(RHJB)
+Elapsed time is 23.306476s
+dim = 2;
+system.Amat = [0 0.5; -0.1, 0.2];
+system.Bmat = [0; 1];
+
+vdeg_iter = 5;
+Ldeg_iter = 5;
+vdeg_ini = 5;
+Ldeg_ini = 5;
+sample_node_num = 101;
+u_norm = 0.5;
+poly_degree = 2;
+T = -5;
+
+indicator = 'BRS';
+goal.center = [0; 0];
+goal.Mat = 4*eye(2);
+xrange.radius = [ 0.0195831863124;  -0.033275003542; 0.0173385353384; -0.0027217438253;  0.000131021216572 ];
+xrange.shape_matrix = [ 0.0773, 0; ...
+                        0, 0.0773];  % T=-5, xrange
+
+
+ell_center_poly = [ 0.0   -0.010    0.1022 ; ...
+                            0.0   -0.0551   -0.0102 ];
+
+
+# Level set: 5.71s
+grid_min = [-5; -5]; % Lower corner of computation domain
+grid_max = [5; 5];    % Upper corner of computation domain
+N = [101; 101];         % Number of grid points per dimension
+g = createGrid(grid_min, grid_max, N);
+R = 0.5;
+data0 = shapeSphere(g, [0; 0], R);
+uMode = 'min';
+
+%% time vector
+t0 = 0;
+tMax = 5;
+dt = 0.05;
+
+# ET
+grid_min = [-2.5; -2.5]; % Lower corner of computation domain
+grid_max = [7.5; 7.5];    % Upper corner of computation domain
+N = [201; 201];         % Number of grid points per dimension
+g = createGrid(grid_min, grid_max, N);
+R = 0.1;
+data0 = shapeSphere(g, [-2; 1], R);
+schemeData.tMode = 'forward';
+uMode = 'max';
+Total execution time 51.13 seconds
+% -----------------------------FRS---------------------------------------
+% -----------------------------------------------------------------------
+RHJB:
+Elapsed time is 22.165 seconds.
+indicator = 'FRS';
+goal.center = [-2; 1];
+goal.Mat = eye(2);
+
+xrange.radius = [ 0.00551499345268;  -3.39175164746e-05; 0.00549310924927; -1.68913033447e-05; 0.00136780200056];
+
+xrange.shape_matrix = [1/54, 0; ...
+                         0, 1/54];  % T=-5, xrange
+
+ell_center_poly = [ -2.0060   -0.5080    0.1022 ; ...
+                            0.9766   -0.4551   -0.0102 ];
+
+# level set: 47.46s
+grid_min = [-2.5; -2.5]; % Lower corner of computation domain
+grid_max = [7.5; 7.5];    % Upper corner of computation domain
+N = [201; 201];         % Number of grid points per dimension
+g = createGrid(grid_min, grid_max, N);
+R = 0.1;
+data0 = shapeSphere(g, [-2; 1], R);
+schemeData.tMode = 'forward';
+uMode = 'max';
+%% time vector
+t0 = 0;
+tMax = 5;
+dt = 0.05;
+
+# ET
+grid_min = [-5; -5]; % Lower corner of computation domain
+grid_max = [5; 5];    % Upper corner of computation domain
+N = [101; 101];         % Number of grid points per dimension
+g = createGrid(grid_min, grid_max, N);
+R = 0.5;
+data0 = shapeSphere(g, [0; 0], R);
+uMode = 'min';
+Total execution time 6.07 seconds

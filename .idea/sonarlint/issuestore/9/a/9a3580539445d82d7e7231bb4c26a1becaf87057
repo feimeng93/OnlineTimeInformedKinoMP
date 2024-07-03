@@ -1,0 +1,28 @@
+
+~python:S117"[Rename this local variable "override_C" to match the regular expression ^[_a-z][a-z0-9_]*$.(å¼™šûÿÿÿÿ8€¢€ªÑ1
+<python:S125 "Remove this commented out code.(¾ÃÓ@8€¢€ªÑ1
+Bpython:S1255"Remove this commented out code.(…Ö¾Ãúÿÿÿÿ8€¢€ªÑ1
+~python:S117K"[Rename this local variable "override_C" to match the regular expression ^[_a-z][a-z0-9_]*$.(å¼™šûÿÿÿÿ8€¢€ªÑ1
+Rpython:S1481K".Remove the unused local variable "override_C".(å¼™šûÿÿÿÿ8€¢€ªÑ1
+=python:S125F"Remove this commented out code.(èÌ••8€¢€ªÑ1
+Fpython:S1481u"'Remove the unused local variable "n_z".(¤¨ıÖ8€¢€ªÑ1
+Ipython:S1481y"%Remove the unused local variable "x".(¸¬­Ñûÿÿÿÿ8€¢€ªÑ1
+=python:S125r"Remove this commented out code.(èÌ••8€¢€ªÑ1
+\python:S5754æ"<Specify an exception class to catch or reraise the exception(ˆÊÉ·8€¢€ªÑ1
+Opython:S1481ü"*Remove the unused local variable "u_flat".(Ø´Ôïùÿÿÿÿ8€¢€ªÑ1
+Cpython:S125ö"Remove this commented out code.(«æ·Öüÿÿÿÿ8€¢€ªÑ1
+>python:S125ÿ"Remove this commented out code.(§ìò«8€¢€ªÑ1
+Cpython:S125…"Remove this commented out code.(¤‹Ó˜ûÿÿÿÿ8€¢€ªÑ1
+Cpython:S125ˆ"Remove this commented out code.(”§Ëÿüÿÿÿÿ8€¢€ªÑ1
+upython:S117Ã"VRename this local variable "B_vec" to match the regular expression ^[_a-z][a-z0-9_]*$.(¯ù±á8€¢€ªÑ1
+python:S117’"[Rename this local variable "override_C" to match the regular expression ^[_a-z][a-z0-9_]*$.(å¼™šûÿÿÿÿ8€¢€ªÑ1
+Epython:S1481"%Remove the unused local variable "m".(ŸŠº¦8€¢€ªÑ1
+Cpython:S125¡"Remove this commented out code.(†£ˆåøÿÿÿÿ8€¢€ªÑ1
+Cpython:S125¼"Remove this commented out code.(¦Œ¶öûÿÿÿÿ8€¢€ªÑ1
+qpython:S117Ò"RRename this parameter "Ksteps" to match the regular expression ^[_a-z][a-z0-9_]*$.(¯»‰—8€¢€ªÑ1
+xpython:S117ä"TRename this local variable "X_b" to match the regular expression ^[_a-z][a-z0-9_]*$.(¢é‚£ùÿÿÿÿ8€¢€ªÑ1
+spython:S117ã"TRename this local variable "X_f" to match the regular expression ^[_a-z][a-z0-9_]*$.(œ¯¤ÿ8€¢€ªÑ1
+upython:S117ë"VRename this local variable "X_fp1" to match the regular expression ^[_a-z][a-z0-9_]*$.(¹ÄÁä8€¢€ªÑ1
+ypython:S117ˆ"URename this local variable "lAiw" to match the regular expression ^[_a-z][a-z0-9_]*$.(©Ÿüÿÿÿÿ8€¢€ªÑ1
+spython:S117‡"TRename this local variable "lAw" to match the regular expression ^[_a-z][a-z0-9_]*$.(ğ€ª¹8€¢€ªÑ1
+Epython:S1481Ö"%Remove the unused local variable "m".(ŸŠº¦8æßì±Ñ1

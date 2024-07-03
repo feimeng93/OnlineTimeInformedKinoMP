@@ -1,0 +1,45 @@
+
+jpython:S1192‰"QDefine a constant instead of duplicating this literal "Data/{}train.npy" 3 times.(ÔÊ¢Œ
+bpython:S1192ˆ"IDefine a constant instead of duplicating this literal "../Data/" 3 times.(éùò‰
+rpython:S117 "VRename this local variable "Omega" to match the regular expression ^[_a-z][a-z0-9_]*$.(Òé¦•ùÿÿÿÿ
+tpython:S117M"XRename this local variable "BLayers" to match the regular expression ^[_a-z][a-z0-9_]*$.(¿õéøÿÿÿÿ
+spython:S117D"WRename this local variable "Layers" to match the regular expression ^[_a-z][a-z0-9_]*$.(„ú©¤øÿÿÿÿ
+rpython:S1176"[Rename this local variable "N_coupling" to match the regular expression ^[_a-z][a-z0-9_]*$.(ì¯õŒ
+ipython:S1172"RRename this parameter "Nstate" to match the regular expression ^[_a-z][a-z0-9_]*$.(ç–®Á
+apython:S67119"DUse a "numpy.random.Generator" here instead of this legacy function.(ŞëŠ—úÿÿÿÿ
+Npython:S1481"5Remove the unused local variable "z_prime_diff_pred".(ï¦Ê
+kpython:S117§"TRename this local variable "Err" to match the regular expression ^[_a-z][a-z0-9_]*$.(‰ÆŸ5
+opython:S117"RRename this parameter "Nstate" to match the regular expression ^[_a-z][a-z0-9_]*$.(˜Ó±„ùÿÿÿÿ
+upython:S117Ÿ"XRename this local variable "Nstates" to match the regular expression ^[_a-z][a-z0-9_]*$.(ºµ¤Úùÿÿÿÿ
+rpython:S117 "ZRename this local variable "Z_current" to match the regular expression ^[_a-z][a-z0-9_]*$.(àˆùï
+mpython:S1542"ORename function "K_fb_loss" to match the regular expression ^[a-z_][a-z0-9_]*$.(˜Ó±„ùÿÿÿÿ
+Vpython:S1481Ÿ"8Replace unused local variable "train_traj_num" with "_".(ºµ¤Úùÿÿÿÿ
+Opython:S1481Ÿ"1Replace unused local variable "Nstates" with "_".(ºµ¤Úùÿÿÿÿ
+jpython:S117Â"RRename this parameter "Nstate" to match the regular expression ^[_a-z][a-z0-9_]*$.(£ËÃå
+kpython:S117Ç"SRename this local variable "Zb" to match the regular expression ^[_a-z][a-z0-9_]*$.(¼ÓÚ‰
+kpython:S117Æ"SRename this local variable "Zf" to match the regular expression ^[_a-z][a-z0-9_]*$.(‚›ÇÃ
+npython:S1542Á"URename function "Klinear_fb_loss" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÏÄš‰
+Vpython:S1481Å"8Replace unused local variable "train_traj_num" with "_".(‚ÈèŠşÿÿÿÿ
+7python:S125Ş"Remove this commented out code.(íŠÚÀ
+<python:S125æ"Remove this commented out code.(çŞ¶Ôüÿÿÿÿ
+npython:S117±"VRename this local variable "Kloss" to match the regular expression ^[_a-z][a-z0-9_]*$.(é“ıó
+ppython:S117È"XRename this local variable "Klosses" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÿÊ”“
+tpython:S117‰"\Rename this local variable "Ktrain_data" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÔÊ¢Œ
+npython:S117û"WRename this local variable "Nstate" to match the regular expression ^[_a-z][a-z0-9_]*$.(÷ßk
+xpython:S117ß"[Rename this local variable "Saved_dict" to match the regular expression ^[_a-z][a-z0-9_]*$.(±™õ«ùÿÿÿÿ
+rpython:S117±"ZRename this local variable "inv_Kloss" to match the regular expression ^[_a-z][a-z0-9_]*$.(é“ıó
+ypython:S117É"\Rename this local variable "inv_Klosses" to match the regular expression ^[_a-z][a-z0-9_]*$.(…É—ëşÿÿÿÿ
+upython:S117©"^Rename this local variable "running_Kloss" to match the regular expression ^[_a-z][a-z0-9_]*$.(™Â£0
+Ipython:S1481©"1Remove the unused local variable "running_Kloss".(™Â£0
+Mpython:S1481¨"4Remove the unused local variable "running_inv_loss".(ñ‘Ğ
+7python:S125«"Remove this commented out code.(©†—Ç
+<python:S125´"Remove this commented out code.(ñ Â„şÿÿÿÿ
+6python:S125¹"Remove this commented out code.(û£ìk
+<python:S125Ğ"Remove this commented out code.(ñ Â„şÿÿÿÿ
+6python:S125Ó"Remove this commented out code.(û£ìk
+opython:S117÷"WRename this local variable "Ksteps" to match the regular expression ^[_a-z][a-z0-9_]*$.(íÇš¶
+spython:S117û"[Rename this local variable "Ktest_data" to match the regular expression ^[_a-z][a-z0-9_]*$.(æ½ïğ
+{python:S117ö"^Rename this local variable "Ktest_samples" to match the regular expression ^[_a-z][a-z0-9_]*$.(ãæ•Ìıÿÿÿÿ
+ypython:S117ø"\Rename this local variable "Ktrain_data" to match the regular expression ^[_a-z][a-z0-9_]*$.(âÔêëúÿÿÿÿ
+wpython:S117õ"_Rename this local variable "Ktrain_samples" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ÿ·Ü–
+npython:S117ó"WRename this local variable "Nstate" to match the regular expression ^[_a-z][a-z0-9_]*$.(÷ßk

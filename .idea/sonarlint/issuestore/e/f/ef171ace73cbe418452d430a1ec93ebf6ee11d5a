@@ -1,0 +1,40 @@
+
+jpython:S116}"NRename this field "K_dc_p" to match the regular expression ^[_a-z][_a-z0-9]*$.(•™ïøşÿÿÿÿ
+ipython:S116"QRename this field "R_trajgen" to match the regular expression ^[_a-z][_a-z0-9]*$.(ÑÖå¶
+fpython:S116€"NRename this field "K_dc_d" to match the regular expression ^[_a-z][_a-z0-9]*$.(ã÷³€
+fpython:S116 "ORename this field "Nstates" to match the regular expression ^[_a-z][_a-z0-9]*$.(‡‘ñö
+opython:S116‹"RRename this field "QN_trajgen" to match the regular expression ^[_a-z][_a-z0-9]*$.(‹‘¡âÿÿÿÿÿ
+qpython:S117z"URename this local variable "K_dc" to match the regular expression ^[_a-z][a-z0-9_]*$.(ˆ½ÅÈúÿÿÿÿ
+lpython:S117w"URename this local variable "P_dc" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ú‹
+qpython:S117q"URename this local variable "Q_dc" to match the regular expression ^[_a-z][a-z0-9_]*$.(¡¸¬éıÿÿÿÿ
+qpython:S117t"URename this local variable "R_dc" to match the regular expression ^[_a-z][a-z0-9_]*$.(§¢õşÿÿÿÿ
+Dpython:S1481"+Replace unused local variable "r" with "_".(¬Ûº›
+Gpython:S1481".Replace unused local variable "done" with "_".(¬Ûº›
+rpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(Ñ½ŠØüÿÿÿÿ
+bpython:S6711¢"DUse a "numpy.random.Generator" here instead of this legacy function.(Å°Ğ»ûÿÿÿÿ
+]python:S6711©"DUse a "numpy.random.Generator" here instead of this legacy function.(ù­èï
+]python:S6711°"DUse a "numpy.random.Generator" here instead of this legacy function.(ù­èï
+7python:S125‡"Remove this commented out code.(Íº¢ß
+bpython:S6711ˆ"DUse a "numpy.random.Generator" here instead of this legacy function.(ª¿Š¹ÿÿÿÿÿ
+bpython:S6711"DUse a "numpy.random.Generator" here instead of this legacy function.(ª¿Š¹ÿÿÿÿÿ
+wpython:S1186•"YAdd a nested comment explaining why this method is empty, or complete the implementation.(ù¶¢ûÿÿÿÿ
+jpython:S116£"MRename this field "x0_MC" to match the regular expression ^[_a-z][_a-z0-9]*$.(õıúèüÿÿÿÿ
+gpython:S116"ORename this field "Nstates" to match the regular expression ^[_a-z][_a-z0-9]*$.(¯¬¢Õ
+Jpython:S1481±",Replace unused local variable "x2" with "_".(¤ø§ıÿÿÿÿ
+7python:S125²"Remove this commented out code.(ÔÀ”å
+jpython:S116Ë"MRename this field "x0_MC" to match the regular expression ^[_a-z][_a-z0-9]*$.(õıúèüÿÿÿÿ
+lpython:S116Ä"ORename this field "Nstates" to match the regular expression ^[_a-z][_a-z0-9]*$.(•ƒÔŸúÿÿÿÿ
+7python:S125Ù"Remove this commented out code.(ÔÀ”å
+lpython:S116÷"ORename this field "Nstates" to match the regular expression ^[_a-z][_a-z0-9]*$.(•ƒÔŸúÿÿÿÿ
+jpython:S116ü"MRename this field "x0_MC" to match the regular expression ^[_a-z][_a-z0-9]*$.(õıúèüÿÿÿÿ
+}python:S101ó"eRename class "Poly_System" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(–©êú
+7python:S125Š"Remove this commented out code.(ÔÀ”å
+jpython:S116¨"MRename this field "x0_MC" to match the regular expression ^[_a-z][_a-z0-9]*$.(õıúèüÿÿÿÿ
+fpython:S116¡"ORename this field "Nstates" to match the regular expression ^[_a-z][_a-z0-9]*$.(İ¿Ùc
+mpython:S117Ì"URename this local variable "Minv" to match the regular expression ^[_a-z][a-z0-9_]*$.(—ê¤Í
+lpython:S116ã"ORename this field "Nstates" to match the regular expression ^[_a-z][_a-z0-9]*$.(•ƒÔŸúÿÿÿÿ
+jpython:S116ê"MRename this field "x0_MC" to match the regular expression ^[_a-z][_a-z0-9]*$.(õıúèüÿÿÿÿ
+7python:S125ø"Remove this commented out code.(ÔÀ”å
+hpython:S1542"ORename function "FrankaObs" to match the regular expression ^[a-z_][a-z0-9_]*$.(©¶ü›
+<python:S125ø"Remove this commented out code.(¡¥œ’ÿÿÿÿÿ
+<python:S125ı"Remove this commented out code.(ˆÙğ†ÿÿÿÿÿ

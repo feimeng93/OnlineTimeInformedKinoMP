@@ -1,0 +1,37 @@
+
+lpython:S1192œ"LDefine a constant instead of duplicating this literal "../../Data/" 4 times.(ž»ï—8åœ÷†Ò1
+hpython:S5797Ý"HReplace this expression; used as a condition it will always be constant.(¬¨ä«8åœ÷†Ò1
+jpython:S116"LRename this field "Ainv" to match the regular expression ^[_a-z][_a-z0-9]*$.(¢ÕÚ†8åœ÷†Ò1
+\python:S5720Â"<Rename "data" to "self" or add the missing "self" parameter.(ØÅµ™8åœ÷†Ò1
+vpython:S117G"XRename this local variable "X_train" to match the regular expression ^[_a-z][a-z0-9_]*$.(ä³ÂÞ8åœ÷†Ò1
+wpython:S117Q"ZRename this local variable "X_train_t" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÝÏ§E8åœ÷†Ò1
+tpython:S117J"VRename this local variable "X_val" to match the regular expression ^[_a-z][a-z0-9_]*$.(ªú¡Õ8åœ÷†Ò1
+vpython:S117U"XRename this local variable "X_val_t" to match the regular expression ^[_a-z][a-z0-9_]*$.( Œã¢8åœ÷†Ò1
+Tpython:S1172m"0Remove the unused function parameter "tune_run".(àÊÏÅúÿÿÿÿ8æœ÷†Ò1
+[python:S1172q"7Remove the unused function parameter "prune_threshold".(öý©âúÿÿÿÿ8æœ÷†Ò1
+python:S117ù"[Rename this local variable "Saved_dict" to match the regular expression ^[_a-z][a-z0-9_]*$.(±™õ«ùÿÿÿÿ8æœ÷†Ò1
+Opython:S1481‘"/Remove the unused local variable "start_epoch".(Þ˜ä8æœ÷†Ò1
+xpython:S3776f"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(¬–â¼üÿÿÿÿ8æœ÷†Ò1
+Cpython:S125ò"Remove this commented out code.(¸¯¹“ÿÿÿÿÿ8æœ÷†Ò1
+spython:S117®"TRename this local variable "X_t" to match the regular expression ^[_a-z][a-z0-9_]*$.(‘„ýÍ8æœ÷†Ò1
+{python:S117£"WRename this local variable "X_test" to match the regular expression ^[_a-z][a-z0-9_]*$.(è½—‘ÿÿÿÿÿ8æœ÷†Ò1
+Lpython:S1172Â",Remove the unused function parameter "udim".(ØÅµ™8æœ÷†Ò1
+spython:S117å"TRename this local variable "Err" to match the regular expression ^[_a-z][a-z0-9_]*$.(Õä±»8æœ÷†Ò1
+tpython:S117ð"URename this local variable "Err1" to match the regular expression ^[_a-z][a-z0-9_]*$.( ÍÓ¥8áøý†Ò1
+qpython:S117Â"RRename this parameter "Nstate" to match the regular expression ^[_a-z][a-z0-9_]*$.(ØÅµ™8æœ÷†Ò1
+xpython:S117Ö"TRename this local variable "X_b" to match the regular expression ^[_a-z][a-z0-9_]*$.(áì§ÿÿÿÿÿ8æœ÷†Ò1
+rpython:S117Í"TRename this local variable "X_f" to match the regular expression ^[_a-z][a-z0-9_]*$.(íˆã8æœ÷†Ò1
+lpython:S100Â"MRename method "K_fb_loss" to match the regular expression ^[a-z_][a-z0-9_]*$.(ØÅµ™8æœ÷†Ò1
+Kpython:S1481Ã"+Replace unused local variable "N" with "_".(Ç»Ó£8æœ÷†Ò1
+Xpython:S1481Ã"8Replace unused local variable "train_traj_num" with "_".(Ç»Ó£8æœ÷†Ò1
+>python:S125Ã"Remove this commented out code.(Ç»Ó£8æœ÷†Ò1
+>python:S125ß"Remove this commented out code.(Éæï’8æœ÷†Ò1
+ˆpython:S1871¥"cEither merge this branch with the identical one on line "415" or change one of the implementations.(»•õÇúÿÿÿÿ8æœ÷†Ò1
+lpython:S117«"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(Œ“É¬8æœ÷†Ò1
+Ppython:S5806Ê"+Rename this variable; it shadows a builtin.(¦—ßâþÿÿÿÿ8æœ÷†Ò1
+python:S117Ú"]Rename this local variable "Data_collect" to match the regular expression ^[_a-z][a-z0-9_]*$.(Óªä¾ýÿÿÿÿ8æœ÷†Ò1
+Jpython:S1481â"*Remove the unused local variable "t_eval".(±¼åÕ8æœ÷†Ò1
+Npython:S1481ä".Remove the unused local variable "n_traj_val".(ÚÄü²8æœ÷†Ò1
+Upython:S1481ã"0Remove the unused local variable "n_traj_train".(ÐâÅ²ýÿÿÿÿ8æœ÷†Ò1
+>python:S125ˆ"Remove this commented out code.(’äâ¾8æœ÷†Ò1
+>python:S125•"Remove this commented out code.(«ÀŸõ8æœ÷†Ò1

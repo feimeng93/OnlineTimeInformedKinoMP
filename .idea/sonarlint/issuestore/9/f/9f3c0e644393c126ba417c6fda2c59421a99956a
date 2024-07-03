@@ -1,0 +1,33 @@
+
+python:S117)"cRename this local variable "N_changed_elements" to match the regular expression ^[_a-z][a-z0-9_]*$.( Šş˜8¤ãø…Ò1
+tpython:S117("VRename this local variable "N_inn" to match the regular expression ^[_a-z][a-z0-9_]*$.(¥ğâ°8¤ãø…Ò1
+~python:S117"[Rename this local variable "override_C" to match the regular expression ^[_a-z][a-z0-9_]*$.(å¼™šûÿÿÿÿ8¤ãø…Ò1
+hpython:S6711/"DUse a "numpy.random.Generator" here instead of this legacy function.(·ƒß™ÿÿÿÿÿ8¤ãø…Ò1
+<python:S1259"Remove this commented out code.(¾ÃÓ@8¤ãø…Ò1
+Bpython:S125H"Remove this commented out code.(…Ö¾Ãúÿÿÿÿ8¤ãø…Ò1
+=python:S125W"Remove this commented out code.(¨¨…å8¤ãø…Ò1
+Rpython:S2638›"-Remove parameter z0 or provide default value.(ÎüÂüÿÿÿÿ8Ê»ÅÒ1
+Qpython:S2638›",Remove parameter u or provide default value.(ÎüÂüÿÿÿÿ8Í»ÅÒ1
+>python:S125œ"Remove this commented out code.(ÀûçÃ8¤ãø…Ò1
+rpython:S117¤"NRename this parameter "zT" to match the regular expression ^[_a-z][a-z0-9_]*$.(£¨²§şÿÿÿÿ8¤ãø…Ò1
+Cpython:S125¥"Remove this commented out code.(™µ‚ùşÿÿÿÿ8¤ãø…Ò1
+Fpython:S1481²"&Remove the unused local variable "dt".(»­®8¤ãø…Ò1
+\python:S5754×"<Specify an exception class to catch or reraise the exception(ˆÊÉ·8¤ãø…Ò1
+Opython:S1481é"*Remove the unused local variable "u_flat".(Ø´Ôïùÿÿÿÿ8¤ãø…Ò1
+Cpython:S125í"Remove this commented out code.(«æ·Öüÿÿÿÿ8¤ãø…Ò1
+Cpython:S125ó"Remove this commented out code.(¤‹Ó˜ûÿÿÿÿ8¤ãø…Ò1
+Cpython:S125ö"Remove this commented out code.(”§Ëÿüÿÿÿÿ8¤ãø…Ò1
+python:S117€"[Rename this local variable "override_C" to match the regular expression ^[_a-z][a-z0-9_]*$.(å¼™šûÿÿÿÿ8¤ãø…Ò1
+Epython:S1481ü"%Remove the unused local variable "m".(ŸŠº¦8¤ãø…Ò1
+Wpython:S1481ÿ"7Remove the unused local variable "override_kinematics".(«¸›Û8¤ãø…Ò1
+Tpython:S1481‚"/Remove the unused local variable "loss_scaler".(´é‘ïûÿÿÿÿ8¤ãø…Ò1
+Jpython:S1481û"%Remove the unused local variable "n".(‡ğ‚óúÿÿÿÿ8¤ãø…Ò1
+Vpython:S1481Š"6Replace unused local variable "drift_matrix" with "_".(¸˜¡µ8¤ãø…Ò1
+Cpython:S125—"Remove this commented out code.(¨ıû×ûÿÿÿÿ8¤ãø…Ò1
+qpython:S117İ"RRename this parameter "Ksteps" to match the regular expression ^[_a-z][a-z0-9_]*$.(¯»‰—8¤ãø…Ò1
+xpython:S117ü"TRename this local variable "X_b" to match the regular expression ^[_a-z][a-z0-9_]*$.(áì§ÿÿÿÿÿ8¤ãø…Ò1
+rpython:S117ò"TRename this local variable "X_f" to match the regular expression ^[_a-z][a-z0-9_]*$.(íˆã8¤ãø…Ò1
+Gpython:S1481â"'Remove the unused local variable "n_z".(¤¨ıÖ8¤ãø…Ò1
+Tpython:S1481…"4Replace unused local variable "act_matrix" with "_".(¤œ·ä8¤ãø…Ò1
+Ppython:S1481ç"+Remove the unused local variable "alpha_0".(Œ¥ıŒÿÿÿÿÿ8¤ãø…Ò1
+Ypython:S1481ä"9Remove the unused local variable "n_override_kinematics".(¹¶ò´8¤ãø…Ò1

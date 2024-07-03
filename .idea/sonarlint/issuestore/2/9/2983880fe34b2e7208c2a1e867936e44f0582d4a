@@ -1,0 +1,5 @@
+
+…python:S101"iRename class "Affine_Coupling" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(°‚ûÿÿÿÿ
+tpython:S117("XRename this local variable "CLayers" to match the regular expression ^[_a-z][a-z0-9_]*$.(·Š¨…ûÿÿÿÿ
+tpython:S117"XRename this local variable "TLayers" to match the regular expression ^[_a-z][a-z0-9_]*$.(‡ ç›úÿÿÿÿ
+;python:S125"Remove this commented out code.(–¯õùÿÿÿÿ

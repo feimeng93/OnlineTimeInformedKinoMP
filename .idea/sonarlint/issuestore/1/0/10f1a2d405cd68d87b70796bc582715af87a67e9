@@ -1,0 +1,12 @@
+
+vpython:S1186"YAdd a nested comment explaining why this method is empty, or complete the implementation.(åàñÔıÿÿÿÿ
+qpython:S1186"YAdd a nested comment explaining why this method is empty, or complete the implementation.(ıÁ‘ã
+qpython:S1186"YAdd a nested comment explaining why this method is empty, or complete the implementation.(äôç½
+qpython:S1186!"YAdd a nested comment explaining why this method is empty, or complete the implementation.(‡Ô×Í
+qpython:S1186$"YAdd a nested comment explaining why this method is empty, or complete the implementation.(ÄœÑ¼
+;python:S1252"Remove this commented out code.(‹Ñùµúÿÿÿÿ
+;python:S125@"Remove this commented out code.(¢ÖÛùÿÿÿÿÿ
+;python:S125K"Remove this commented out code.(ˆ£Îîûÿÿÿÿ
+Bpython:S125O"Remove this commented out code.(ÛÀß­ÿÿÿÿÿ8ÛÄƒÑ1
+>python:S1481i"&Remove the unused local variable "ii".(ÖÈÔ
+python:S117"[Rename this local variable "override_C" to match the regular expression ^[_a-z][a-z0-9_]*$.(å¼™šûÿÿÿÿ8ÛÄƒÑ1
