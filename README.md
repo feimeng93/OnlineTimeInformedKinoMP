@@ -1,5 +1,5 @@
 # Online Time-Informed Kinodynamic Motion Planning of Nonlinear Systems
-Paper: [ArXiv](https://arxiv.org/abs/2407.02933) (Revised and resubmitted to IEEE RAL)
+Paper: [arXiv](https://arxiv.org/abs/2407.02933) (Revised and resubmitted to IEEE RAL)
 
 **Description**
 ![image](https://github.com/feimeng93/OnlineTimeInformedKinoMP/blob/main/asset/about.png)
