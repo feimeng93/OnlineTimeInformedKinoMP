@@ -66,8 +66,9 @@ to reproduce Fig. 4.
 @article{meng2024online,
   title={Online Time-Informed Kinodynamic Motion Planning of Nonlinear Systems},
   author={Meng, Fei and Liu, Jianbang and Shi, Haojie and Ma, Han and Ren, Hongliang and Meng, Max Q-H},
-  journal={arXiv preprint arXiv:2407.02933},
-  year={2024}
+  journal={IEEE Robotics and Automation Letters},
+  year={2024},
+  publisher={IEEE}
 }
 ```
 
